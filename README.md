@@ -1,24 +1,11 @@
-# README
+Rails is an MVC architecture. Model, View, Controller
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Model - Database
+You can use any database you want and nothing changes in the app
 
-Things you may want to cover:
+Views - Webpages
 
-* Ruby version
+Controller - Brains behind the scenes
+We need a controller for every web page
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+All Rails html pages end in erb. Embedded Ruby

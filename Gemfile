@@ -1,3 +1,5 @@
+# allows you to add 3rd party packages to the app
+
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
